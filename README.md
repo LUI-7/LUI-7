@@ -6,13 +6,13 @@
 
 </a>
 
-- 🔭 I am currently working as a trainee at ourt of Justice of the State of Paraná.</a>
+🔭 I am currently working as a trainee at Court of Justice of the State of Paraná.</a>
 
-- 🌱 I am currently studying systems analysis and development.
+🌱 I am currently studying systems analysis and development.
 
-- 🤝 I’m available for freelancing.
+🤝 I’m available for freelancing.
 
-- 📫 How to reach me **luis.medina.guzman27@gmail.com**
+📫 How to reach me **luis.medina.guzman27@gmail.com**
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
