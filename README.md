@@ -6,7 +6,7 @@
 
 </a>
 
-- 🔭 I am currently working as a cashier at a pharmacy.</a>
+- 🔭 I am currently working as a trainee at ourt of Justice of the State of Paraná.</a>
 
 - 🌱 I am currently studying systems analysis and development.
 
